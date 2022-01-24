@@ -1,6 +1,6 @@
 <p align="center"><img src="art/banner-2x.png"></p>
 
-## This is fork from [Dries Vints] dotfiles configured for me!!!
+## This is fork from [Dries Vints](https://github.com/driesvints/dotfiles), dotfiles configured for me!!!
 
 ## Introduction
 
