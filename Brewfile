@@ -1,9 +1,9 @@
 # Taps
-tap 'homebrew/cask'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
 tap 'nicoverbruggen/homebrew-cask'
+tap 'stripe/stripe-cli'
 
 # Binaries
 brew 'awscli'
@@ -18,6 +18,8 @@ brew 'httpie'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
+brew 'stripe/stripe-cli/stripe'
+brew 'stripe/stripe-mock/stripe-mock'
 brew 'svn' # Needed to install fonts
 
 # Spatie Medialibrary
@@ -48,6 +50,8 @@ cask 'figma'
 cask 'firefox'
 cask 'github'
 cask 'google-chrome'
+cask 'helo'
+cask 'herd'
 cask 'imageoptim'
 cask 'insomnia'
 cask 'pastebot'
